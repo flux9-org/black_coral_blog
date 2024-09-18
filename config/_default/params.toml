@@ -14,7 +14,7 @@ smartTOC = true
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "logo.jpg" # used in: hero, and card
+  homepageImage = "black_coral_logo.jpeg" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
   showMoreLink = true
