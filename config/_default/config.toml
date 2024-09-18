@@ -1,0 +1,9 @@
+[imaging]
+  resampleFilter = "lanczos"
+  quality = 100
+  anchor = "smart"
+
+[author]
+  name = "BlackCoral"
+  image = "logo.jpg"
+  headline = "Developing stuff"

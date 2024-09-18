@@ -1,0 +1,15 @@
+[[main]]
+  name = "Posts"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Tutorials"
+  pageRef = "tutorials"
+  weight = 20
+
+[[main]]
+  identifier = "github2"
+  pre = "github"
+  url = "https://github.com/flux9-org/black_coral_blog"
+  weight = 30
