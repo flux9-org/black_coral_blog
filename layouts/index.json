@@ -1,7 +1,7 @@
 {{- $.Scratch.Add "index" slice -}}
 {{- range where .Site.Pages "Kind" "eq" "page" -}}
   {{- if in (slice "posts" "tutorials") .Section -}}
-    {{- $.Scratch.Add "index" (dict "uri" .Permalink "title" .Title "content" .Plain "tags" .Params.tags "categories" .Params.categories "UID" .Params.UID) -}}
+    {{- $.Scratch.Add "index" (dict "uri" .Permalink "title" .Title "content" .Plain "tags" .Params.tags "categories" .Params.categories "uid" .Params.UID) -}}
   {{- end -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}
