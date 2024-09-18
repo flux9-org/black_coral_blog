@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post on BlackCoral</title>
-    <link>http://localhost:1313/tags/post/</link>
+    <link>https://example.org/tags/post/</link>
     <description>Recent content in Post on BlackCoral</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example post</title>
-      <link>http://localhost:1313/posts/post/</link>
+      <link>https://example.org/posts/post/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/post/</guid>
+      <guid>https://example.org/posts/post/</guid>
       <description>This is an example post</description>
       
     </item>
