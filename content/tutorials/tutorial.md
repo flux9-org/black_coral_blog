@@ -1,9 +1,10 @@
 ---
 title: "Example Tutorial"
+categories: ["tutorials"]
 date: 2024-09-18
 draft: false
 summary: "This is an example tutorial"
-tags: ["tutorial"]
+tags: []
 ---
 
 Hello, this is an example tutorial

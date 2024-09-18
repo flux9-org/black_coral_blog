@@ -1,9 +1,10 @@
 ---
 title: "Example post"
+categories: ["posts"]
 date: 2024-09-18
 draft: false
 summary: "This is an example post"
-tags: ["post"]
+tags: []
 UID: "1085997576123318284"
 ---
 
