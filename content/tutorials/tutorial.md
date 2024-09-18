@@ -1,6 +1,6 @@
 ---
 title: "Example Tutorial"
-categories: ["tutorials"]
+category: "tutorials"
 date: 2024-09-18
 draft: false
 summary: "This is an example tutorial"
