@@ -10,3 +10,4 @@ UID: "1085997576123318284"
 
 Hello, this is an example post
 
+![Featured](featured.png)

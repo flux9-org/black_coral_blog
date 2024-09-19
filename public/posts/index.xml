@@ -10,12 +10,12 @@
     <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example post</title>
-      <link>http://localhost:1313/posts/post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>This is an example post</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/first-post/featured.png" />
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       
       <guid>http://localhost:1313/posts/second_post/</guid>
       <description>This is an example post</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/second_post/featured.jpg" />
     </item>
     
   </channel>
