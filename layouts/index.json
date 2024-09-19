@@ -1,7 +1,8 @@
 {{- $.Scratch.Add "index" slice -}}
 {{- range where .Site.Pages "Kind" "eq" "page" -}}
   {{- if in (slice "posts" "tutorials") .Section -}}
-    {{- $.Scratch.Add "index" (dict "url" .Permalink "title" .Title "summary" .Summary "tags" .Params.tags "category" .Params.category "uid" .Params.UID) -}}
+    {{ $thumbnail := (printf "%sfeatured.jpg" .Permalink)}}
+    {{- $.Scratch.Add "index" (dict "url" .Permalink "title" .Title "summary" .Summary "tags" .Params.tags "category" .Params.category "uid" .Params.UID "thumbnail" $thumbnail) -}}
   {{- end -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}
