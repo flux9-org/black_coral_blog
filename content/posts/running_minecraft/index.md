@@ -8,7 +8,7 @@ tags: []
 UID: "1085997576123318284"
 ---
 
-The most popular Java Minecraft docker image is: [https://github.com/itzg/docker-minecraft-server]. It's very easy to use with some basic settings, requires setting `EULA: true` as an environment variable and setting 25565 as `ContainerPort`.
+The most popular Java Minecraft docker image is: <https://github.com/itzg/docker-minecraft-server>. It's very easy to use with some basic settings, requires setting `EULA: true` as an environment variable and setting 25565 as `ContainerPort`.
 
 ## Base Minecraft Deployment
 The BlackCoral server runs a minecraft server as a base deployment created with these settings passed to interal function for the `/create_deployment` command:
