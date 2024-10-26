@@ -10,7 +10,25 @@
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/getting_started/</loc>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/running_minecraft/</loc>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -22,12 +40,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/tutorials/tutorial/</loc>
-    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
